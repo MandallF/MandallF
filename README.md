@@ -17,7 +17,7 @@
 isim:        Kubilay
 roller:      [ "Yazılımcı", "Oyun Geliştirici", "İçerik Üretici" ]
 ilgi:        [ "Unity / C#", "Web (Next.js, Node.js)" ]
-ogreniyor:   "Unity ile Steam oyunu geliştirme"
+ogreniyor:   "Oyun Geliştirme, Tasarım"
 youtube:     "@MandallF — Oyun & Tarih"
 ```
 
