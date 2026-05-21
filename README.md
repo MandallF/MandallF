@@ -16,7 +16,7 @@
 ```yaml
 isim:        Kubilay
 roller:      [ "Yazılımcı", "Oyun Geliştirici", "İçerik Üretici" ]
-ilgi:        [ "Unity / C#", "Web (Next.js, Node.js)", "Tarih & Osmanlı kültürü" ]
+ilgi:        [ "Unity / C#", "Web (Next.js, Node.js)" ]
 ogreniyor:   "Unity ile Steam oyunu geliştirme"
 youtube:     "@MandallF — Oyun & Tarih"
 ```
