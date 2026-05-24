@@ -67,7 +67,9 @@ youtube:     "@MandallF — Oyun & Tarih"
         <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
       </p>
+      <a href="https://mandalf-site.vercel.app"><strong>→ Siteye git</strong></a>
     </td>
     <td width="50%" valign="top">
       <h4>🐉 Dragon Clash: Realm of Scales</h4>
