@@ -85,6 +85,36 @@ youtube:     "@MandallF — Oyun & Tarih"
       <a href="https://github.com/MandallF/dragon-clash"><strong>→ Repo</strong></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚗 Safe Drive — Sürücü Davranışı Analizi</h4>
+      <p>
+        <em>Telefonu araç içinde bir IoT düğümü gibi kullanan gerçek zamanlı sürücü davranışı analiz platformu.</em><br/>
+        Canlı harita + grafik paneli, riskli sürüş tespiti; web + mobil + backend monorepo.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://github.com/MandallF/safe-drive-platform"><strong>→ Repo</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🍽️ Pick A Bite — AI Menü Öneri Uygulaması</h4>
+      <p>
+        <em>Konum/QR tabanlı, yapay zeka destekli restoran & menü öneri uygulaması.</em><br/>
+        Otomatik menü senkronizasyonu, QR ile menü keşfi, kalori/alerjen tahmini.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+      </p>
+      <a href="https://github.com/MandallF/pick-a-bite-demo"><strong>→ Repo</strong></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -132,8 +162,14 @@ youtube:     "@MandallF — Oyun & Tarih"
   <a href="https://www.youtube.com/@MandallF">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/kubilay-inan%C3%A7-7029a5274/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/MandallF">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kubilayinanc237@gmail.com">
+    <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
