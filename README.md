@@ -162,7 +162,7 @@ youtube:     "@MandallF — Oyun & Tarih"
   <a href="https://www.youtube.com/@MandallF">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/kubilayinan%C3%A7/">
+  <a href="https://www.linkedin.com/in/kubilayinanc/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MandallF">
